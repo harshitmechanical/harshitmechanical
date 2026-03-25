@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm HARSHIT ANAND
-**A Graduate Mechanical Engineer ||  Research Scholar || Former Research Intern **
+A Graduate Mechanical Engineer ||  Research Scholar || Former Research Intern
 
-Email Me 👉 ✉️ **anandharshit923@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **anandharshit923@gmail.com** For Collaboration/Project or Anything Else.
 
 * 🔭 **I’m currently working on:** Image Processing using MATLAB
-* 🌱 **I’m currently learning:** MATLAB, MatPlot
+* 🌱 **I’m currently learning:** MATLAB
 * 👯 **I’m looking to collaborate on:** 
 * 🤔 **I’m looking for help with:** 
 * 💬 **Ask me about:** Collaboration and Research
