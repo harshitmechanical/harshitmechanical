@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **anandharshit923@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:**
+- 🔭 **I’m currently working on:** Image Processing using MATLAB
+- 🌱 **I’m currently learning:** MATLAB, MatPlot
+- 👯 **I’m looking to collaborate on:** 
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration and Research
 ## 🌐 Socials:
