@@ -4,9 +4,7 @@ A Graduate Mechanical Engineer ||  Research Scholar || Former Research Intern
 Email Me 👉 ✉️ **anandharshit923@gmail.com** For Collaboration/Project or Anything Else.
 
 * 🔭 **I’m currently working on:** Image Processing using MATLAB
-* 🌱 **I’m currently learning:** MATLAB
-* 👯 **I’m looking to collaborate on:** 
-* 🤔 **I’m looking for help with:** 
+* 🌱 **I’m currently learning:** MATLAB 
 * 💬 **Ask me about:** Collaboration and Research
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit_anand_184) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitananda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshitanand923) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anandharshit01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshitadmech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandharshit923@gmail.com) 
