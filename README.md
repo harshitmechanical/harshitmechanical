@@ -2,6 +2,7 @@
 A Graduate Mechanical Engineer ||  Research Scholar || Former Research Intern
 
 Email Me 👉 ✉️ **anandharshit923@gmail.com** For Collaboration/Project or Anything Else.
+
 I work at the intersection of:
 - CFD & Thermal Analysis
 - Battery Thermal Management Systems (BTMS)
@@ -12,8 +13,7 @@ I work at the intersection of:
 ## Technical Interests
 - Computational Fluid Dynamics (CFD)
 - Thermal Management for EV Batteries
-- Multiphase Flow Simulation
-- Microfluidics
+- Multiphase Flow Simulation and Microfluidics
 - Materials & Energy Systems
 - Simulation-driven Engineering Design
 - Research & Development
