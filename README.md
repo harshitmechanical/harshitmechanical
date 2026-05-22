@@ -25,7 +25,7 @@ I work at the intersection of:
 - Contributed to productivity optimization and Industry 4.0 implementation projects.
 
 ## Achievements
-- GATE ME Qualified
+- GATE 2026 ME Qualified
 - CSWA Certified
 - NPTEL FEA Top Rank Performer
 
