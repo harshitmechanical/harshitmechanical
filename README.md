@@ -1,35 +1,10 @@
 # 💫 Hi 👋, I'm HARSHIT ANAND
-A Graduate Mechanical Engineer ||  Research Scholar || Former Research Intern
+M.Tech MSE @ IIT Indore | Mechanical Engineer | Computational Mechanics & Materials Science | Ex-Tata Motors | GATE ’26 Qualified
 
 Email Me 👉 ✉️ **anandharshit923@gmail.com** For Collaboration/Project or Anything Else.
 
-I work at the intersection of:
-- CFD & Thermal Analysis
-- Battery Thermal Management Systems (BTMS)
-- Finite Element Analysis (FEA)
-- Electric Vehicle Technologies
-- AI/ML applications in Mechanical Engineering
+Focused on advanced materials, scientific research, and engineering for future technologies.
 
-## Technical Interests
-- Computational Fluid Dynamics (CFD)
-- Thermal Management for EV Batteries
-- Multiphase Flow Simulation and Microfluidics
-- Materials & Energy Systems
-- Simulation-driven Engineering Design
-- Research & Development
-
-## Experience Highlights
-- Worked on EV Battery Thermal Management simulations using nanofluids in ANSYS Fluent.
-- Experience in Electric Bus Manufacturing at Tata Motors.
-- Research exposure in NVH analysis and PMSM vibration studies for EV systems.
-- Contributed to productivity optimization and Industry 4.0 implementation projects.
-
-## Achievements
-- GATE 2026 ME Qualified
-- CSWA Certified
-- NPTEL FEA Top Rank Performer
-
-“Engineering is no longer just design and manufacturing. The future belongs to simulation, intelligence, optimization, and interdisciplinary research.”
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit_anand_184) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitananda) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshitanand923) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anandharshit01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshitadmech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandharshit923@gmail.com) 
 
