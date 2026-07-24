@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm HARSHIT ANAND
-M.Tech MSE @ IIT Indore | Mechanical Engineer | Computational Mechanics & Materials Science | Ex-Tata Motors | GATE ’26 Qualified
+M.Tech Student, Department of Metallurgical Engineering and Materials Science, IIT Indore
 
 Email Me 👉 ✉️ **anandharshit923@gmail.com** For Collaboration/Project or Anything Else.
 
